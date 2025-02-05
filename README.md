@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stamayosarver, a student at Vanderbilt University on the Premed track aiming to major in BME and possibly ECE with a minor in digital fabrication and potential minor in CS or Scientific Computing. I like learning about everything and live by the principle that knowledge is power
+- 👋 Hi, I’m @stamayosarver, a student at Vanderbilt University aiming to major in BME and possibly ECE with a minor in digital fabrication and potential minor in CS or Scientific Computing. I like learning about everything and live by the principle that knowledge is power
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an identical twin brother also going to Vanderbilt!
 - 📐 I enjoy being a part of the Math/Stats club on campus
