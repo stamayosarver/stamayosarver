@@ -3,4 +3,4 @@
 - ⚡ Fun fact: I have an identical twin brother also going to Vanderbilt!
 - 📐 I enjoy being a part of the Math/Stats club on campus
 - 🤖 I help make automated systems in Robotics club (ECE side)
-- 💻 I read up on the most recent large language models and learn how they think (try out Deepseek and Gemini 2.0 if you haven't already, or check out Llama and Claude)
+- 💻 I read up on the most recent large language models and learn how they think (try out Deepseek and Gemini 2.0 if you haven't already, or check out Llama, Claude, Cursor.ai is a gamechanger for coding and writing reports on code
