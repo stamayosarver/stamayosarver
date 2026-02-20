@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stamayosarver, a student at Vanderbilt University aiming to major in BME and possibly ECE with a minor in digital fabrication and potential minor in CS or Scientific Computing. I like learning about everything and live by the principle that knowledge is power
+- 👋 Hi, I’m @stamayosarver, a student at Vanderbilt University aiming to major in BME and ECE with a minor in digital fabrication. I like learning about everything and live by the principle a wise man can learn much from a foolish question, where a fool can learn naught from a wise answer.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an identical twin brother also going to Vanderbilt!
-- 📐 I enjoy being a part of the Math/Stats club on campus
+- 📐 I enjoy making small projects and seeing my PCBs come in the mail
 - 🤖 I help make automated systems in Robotics club (ECE side)
-- 💻 I read up on the most recent large language models and learn how they think (try out Deepseek and Gemini 2.0 if you haven't already, or check out Llama, Claude, Cursor.ai is a gamechanger for coding and writing reports on code
+- 💻 I like keeping up with latest AI news
